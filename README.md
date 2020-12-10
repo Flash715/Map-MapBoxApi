@@ -1,6 +1,5 @@
 # IVAN FEBRIANSYAH
-# 19SA1138
-# MAPS USING MAPBOX
+# MAPS USING MAPBOX API
 # FITUR :
 - Menentukan Lokasi
 - Menentukan Lokasi Saat Ini
