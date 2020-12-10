@@ -5,6 +5,6 @@
 - Menentukan Lokasi Saat Ini
 - Route
 - Navigasi Perjalanan
-#
-#
-#
+# Pictures
+
+
